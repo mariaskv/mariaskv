@@ -1,9 +1,14 @@
-### Hi there 👋
+### Hi, I am Maria Skevofylaka
 
 <!--
 **mariaskv/mariaskv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+I am an undergraduate student with a strong background in Data Structures and Algorithms and 4 years of coding experience. I like building software
+following good programming practices and I am interested in computer security, blockchain technology and web application development. I am
+also approachable, a good listener, a fast learner and I love to collaborate with others.
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
