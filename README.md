@@ -1,8 +1,6 @@
 ### Hi, I am Maria Skevofylaka
 
-I am an undergraduate student with a strong background in Data Structures and Algorithms and 4 years of coding experience. I like building software
-following good programming practices and I am interested in computer security, blockchain technology and web application development. I am
-also approachable, a good listener, a fast learner and I love to collaborate with others.
+Graduate student with a strong background in Data Structures and Algorithms and 5 years of coding experience. I like building software following good programming practices and I am interested in computer security and the cloud.
 
 Also these are some of my stats:
 
