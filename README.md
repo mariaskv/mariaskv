@@ -6,7 +6,7 @@ also approachable, a good listener, a fast learner and I love to collaborate wit
 
 Also these are some of my stats:
 
-# ![Github stats](https://github-readme-stats.vercel.app/api?username=mariaskv&theme=default&show_icons=true&count_private=true)
+<!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=mariaskv&theme=default&show_icons=true&count_private=true) -->
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=mariaskv)
 
